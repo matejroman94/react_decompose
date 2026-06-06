@@ -4,9 +4,9 @@ import './Welcome.css'
 
 const Welcome = () => {
     return(
-        <welcome className='welcome'>
+        <div className='welcome'>
             <h1 className='welcome__text'>Sticky Header!</h1>
-        </welcome>
+        </div>
     );
 }
 
