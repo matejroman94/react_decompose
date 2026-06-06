@@ -7,9 +7,11 @@ const Article = () => {
     return(
         <article className="article">
             <h2>Headline</h2>
-            <p className="article__paragraph">
-                This is a sample article paragraph text.
-            </p>
+                <p className="article__paragraph">First paragraph with simple text.</p>
+                <p className="article__paragraph">Second paragraph continuing the idea.</p>
+                <p className="article__paragraph">Third paragraph adds more detail here.</p>
+                <p className="article__paragraph">Fourth paragraph for extra context.</p>
+                <p className="article__paragraph">Fifth paragraph concludes the section.</p>
         </article>
     );
 };
