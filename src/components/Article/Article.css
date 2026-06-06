@@ -26,6 +26,8 @@
 @media (min-width: 500px) {
     .article {
         margin: 3.5em auto 0;
-        padding: 2em;
+        padding-left: 44.8px;
+        padding-right: 44.8px;
+        margin-bottom: 78.4px;
     }
 }
