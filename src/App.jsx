@@ -25,7 +25,7 @@ function App() {
       <article className="article">
         <h2 className="article__title">Headline</h2>
         <p className="article__paragraph">
-          In  elementum lorem eget est euismod ornare. Phasellus sit amet
+          In elementum lorem eget est euismod ornare. Phasellus sit amet
           pellentesque mauris. Aliquam quis malesuada ex. Nullam eu aliquam
           nibh. Mauris molestie, urna accumsan ornare semper, augue nibh posuere
           lorem, vitae feugiat sem magna eget massa. Vivamus quis tincidunt
